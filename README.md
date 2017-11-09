@@ -1,7 +1,7 @@
 # IEX API support
 By using this page, you agree to the [terms of use](https://iextrading.com/api-terms/).
 
-This github repository a is support channel for the [IEX API](https://iextrading.com/developer/docs/). Please review the [API documentation](https://iextrading.com/developer/docs/) and [FAQ](https://iextrading.com/developer/#faq) before posting an issue.
+This github repository a is support channel for the [IEX API](https://iextrading.com/developer/). Please review the [API documentation](https://iextrading.com/developer/docs/) and [FAQ](https://iextrading.com/developer/#faq) before posting an issue.
 
 ## Have a question/problem regarding the API?
 
