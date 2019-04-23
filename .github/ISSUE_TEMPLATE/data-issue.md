@@ -1,6 +1,6 @@
 ---
 name: Data Issue
-about: Create a report to help us improve
+about: Report an issue with IEX Cloud data
 title: "[Data]"
 labels: 'IEX Cloud, Type: data'
 assignees: ''

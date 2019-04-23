@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea or enhancement
+about: Suggest an idea or enhancement for IEX Cloud
 title: "[Request]"
 labels: 'IEX Cloud, Type: enhancement request'
 assignees: ''
