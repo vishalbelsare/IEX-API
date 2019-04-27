@@ -7,29 +7,22 @@ assignees: ''
 
 ---
 
-**Describe the problem**
-A clear and concise description of what the bug is.
+**Clearly describe the problem**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**What time did the problem occur? (with timezone)**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
 
-**Environment (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - API Version [e.g. v1]
+**What is the expected behavior?**
 
-**URL (if applicable)**
- - API URL associated with the issue.
+
+**Your environment (e.g. browser, OS, API version, language):**
+
+
+**API URL (if applicable)**
+
+
+**What are the steps to reproduce the bug?**
+
 
 **Additional context**
-Add any other context about the problem here.

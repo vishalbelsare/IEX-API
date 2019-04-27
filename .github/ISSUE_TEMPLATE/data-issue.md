@@ -7,31 +7,22 @@ assignees: ''
 
 ---
 
-**Describe the data problem**
-A clear and concise description of what the data problem is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Data URL (The URL you used to access the data):**
- - Full URL without your API token
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Clearly describe the data problem**
 
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Data URL (The URL you used to access the data without your token):**
+
+
+**What time did the problem occur (including timezone)?**
+
+
+**What is the expected behavior?**
+
+
+**What are the steps to reproduce**
+
+
+**Your environment (e.g. browser, OS, API version, language):**
 
 
 **Additional context**
-Add any other context about the problem here.
