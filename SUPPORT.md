@@ -1,6 +1,6 @@
 # How To Get Help
 
-If it's a question, you should double-check the [FAQ](https://iextrading.com/developer/#faq), which has answers to questions on costs, paperwork, redistribution, etc. The [Developer Docs](https://iextrading.com/developer/docs/) includes most everything else, but some questions won't be answerable via those documents.
+If it's a question, you should double-check the [FAQ](https://intercom.help/iexcloud/en/collections/1299541-faqs), which has answers to questions on costs, paperwork, redistribution, etc. The [Developer Docs](https://iexcloud.io/docs/api/) includes most everything else, but some questions won't be answerable via those documents. To receive the fastest response from IEX Cloud, please reach out to IEX Cloud's Support team directly at support@iexcloud.io. 
 
 # More Data?
 
