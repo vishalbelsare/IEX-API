@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+##  Welcome to IEX Cloud's Github Community.  To receive the fastest response from IEX Cloud, please reach out to IEX Cloud's Support team directly at support@iexcloud.io. 
+
+
 **Is your feature request related to a problem? Please describe.**
 
 
