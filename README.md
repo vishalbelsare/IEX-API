@@ -1,4 +1,4 @@
-# IEX API & IEX Cloud support
+#IEX Cloud Github
 By using IEX Cloud, you agree to the [terms of use](https://iexcloud.io/terms/).
 
 This github repository is not a support channel for [IEX Cloud](https://iexcloud.io/) 
