@@ -1,4 +1,4 @@
-#IEX Cloud Github
+IEX Cloud Github
 
 This github repository is not a support channel for [IEX Cloud](https://iexcloud.io/) 
 
