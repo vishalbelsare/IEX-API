@@ -2,6 +2,8 @@
 
 **This github repository is not a support channel for [IEX Cloud](https://iexcloud.io/)**. We are looking to migrate to a more centralized, scalable community support site in 2021. In the mean time, please consult the following links for information and support.
 
+# Please consult the FAQ and Help center before submitting an issue
+
 ## Frequently Asked questions
 For **frequently asked questions**, please consult our [Help Center](https://intercom.help/iexcloud/en/).
 
