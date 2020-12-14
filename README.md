@@ -6,7 +6,7 @@
 For **frequently asked questions**, please consult our [Help Center](https://intercom.help/iexcloud/en/).
 
 ## API Documentation
-**API Documentation** for all endpoints is available on the [IEX Cloud website]([Developer Docs](https://iexcloud.io/docs/api/). If you're just getting started, check out our [Quickstart article](https://intercom.help/iexcloud/en/articles/2851174-getting-started-on-iex-cloud) in the help center.
+**API Documentation** for all endpoints is available on the [IEX Cloud website](https://iexcloud.io/docs/api/). If you're just getting started, check out our [Quickstart article](https://intercom.help/iexcloud/en/articles/2851174-getting-started-on-iex-cloud) in the help center.
 
 
 ## Report a problem/general support
