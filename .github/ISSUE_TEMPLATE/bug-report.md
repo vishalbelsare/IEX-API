@@ -9,28 +9,28 @@ assignees: ''
 
 ##  Welcome to IEX Cloud's Github Community.  
 
-### We review this forum at least once per week. To receive the fastest response from IEX Cloud, please reach out to IEX Cloud's Support team directly at support@iexcloud.io. 
+### Please note that we are in the process of migrating off of GitHub, and all bug reports should instead be submitted via <a href="mailto:support@iexcloud.io?subject=IEX Cloud Support&body=Email Account:%0ADate/Time of the issue:%0AWhat you did:%0AWhat you expected to happen:%0AWhat actually happened:%0AAPI Url:%0AAdditional relevant information:%0A">email</a>
 
 ### Please keep all posted issues professional and constructive. We may delete posts that do not provide sufficient information, are outright negative and unproductive, or are not directly related to IEX Cloud.
 
 
-**Clearly describe the problem**
+**Email account associated with your IEX Account**
 
 
-
-**What time did the problem occur? (with timezone)**
-
-
-**What is the expected behavior?**
+**Date/time of the issue**
 
 
-**Your environment (e.g. browser, OS, API version, language):**
+**What you did**
 
 
-**API URL (if applicable)**
+**What you expected to happen**
 
 
-**What are the steps to reproduce the bug?**
+**What actually happened**
 
 
-**Additional context**
+**API Url (if applicable)**
+
+
+**Additional relevant information**
+
