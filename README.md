@@ -3,7 +3,7 @@
 [![Status](https://img.shields.io/badge/Status-green)](https://status.iexapis.com/)
 [![Docs](https://img.shields.io/badge/API%20Docs-blue)](https://iexcloud.io/docs/api/)
 
-# :rotating_light: Pending SEC filing and effectiveness, the IEX API will be retired on November 18, 2021. :rotating_light:
+# :rotating_light: Pending SEC filing and effectiveness, the [IEX API](https://iextrading.com/developers/docs/) will be retired on November 18, 2021. :rotating_light:
 After this date, you will no longer be able to access IEX Exchange market data through this API.
 IEX Exchange market data will continue to be available via the TOPS and DEEP feeds, as well as through commercial vendors such as [IEX Cloud](https://iexcloud.io/), which is operated separately from IEX Exchange. If you have any questions, please reach out to [api@iextrading.com](mailto:api@iextrading.com?subject=API%20Deprecation)</a>.
 
